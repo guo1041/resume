@@ -11774,7 +11774,7 @@ function(e, t, n) {
             default.createElement("div", null, u.
             default.createElement("header", null, u.
             default.createElement("img", {
-                    src: "http://omfmbv825.bkt.clouddn.com/2_02.png",
+                    src: "http://jianliimg.oss-cn-beijing.aliyuncs.com/img/IMG_0331.JPG",
                     alt: "person img",
                     className: "person"
                 }), u.
