@@ -11896,7 +11896,7 @@ function(e, t, n) {
             default.createElement("dd", null, u.
             default.createElement("span", null, "毕业院校:"), "池州职业技术学院"), u.
             default.createElement("dd", null, u.
-            default.createElement("span", null, "个人专业:"), "机电一体化技术"), u.
+            
             default.createElement("dd", null, u.
             default.createElement("span", null, "应聘岗位:"), "PHP工程师"), u.
             default.createElement("dd", null, u.
